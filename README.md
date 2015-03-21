@@ -4,10 +4,10 @@
      source("run_analysis.R")
      run_analysis()
 
-   Data structure under Home Directory is explained at [1].
+   Data structure under Working Directory is explained at [1].
    How the program works is expalained briefly at [2].
    
-1. Directory structure   (   Home directory  is  R working directory )
+1. Directory structure under Working Directory
 
    features.txt
    actvity_labels.txt
