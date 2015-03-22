@@ -1,6 +1,8 @@
 # How the script works
+  This script needs plyr & dplyr packages. 
+  If they are not installed, please install them by install.packages beforehand.
 
-  In order to execute R program.  Please do  following @ R.
+  In order to execute R program.  Please do  following @ R console.
      source("run_analysis.R")
      run_analysis()
 
