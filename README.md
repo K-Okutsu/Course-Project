@@ -9,7 +9,7 @@
    Data structure under Working Directory is explained at [1].
    How the program works is expalained briefly at [2].
    
-1. Directory structure under Working Directory
+[1] Directory structure under Working Directory
 
    features.txt
    actvity_labels.txt
@@ -27,7 +27,7 @@
    test/Inertial Signals/  9 x 128 column Data Text Files
 
 	
-2. Step to clean up data
+[2] Step to clean up data
 
 	1.  Read all table in R.  Data table name in R is same with each file name.
 	2.	naming x_train colum with features
